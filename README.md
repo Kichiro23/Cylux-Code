@@ -231,8 +231,6 @@ app/
 
 - **Brand**: Cylux Code
 - **Tagline**: "Where Vision Meets Precision"
-- **Operator**: Rommel Andrei De Leon (solo — use "I" not "we")
-- **Experience**: 5+ years
 - **Contact**: rommeld216@gmail.com | +63 962 790 5910 | Malolos, Bulacan, Philippines
 - **Payments**: GCash/Maya (0962 790 5910) | PayPal/Google Pay (rommeld216@gmail.com)
 - **Socials**: GitHub `Kichiro23`, LinkedIn, Instagram `@drei_sanity`, Facebook, Discord, Telegram
